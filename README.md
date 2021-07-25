@@ -7,14 +7,17 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&show_icons=true&hide_border=true" alt="Ajai's github stats" width="420"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="Ajai's github stats" width="450"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&show_icons=true&hide_border=true" alt="Edwins's github stats" width="420"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="Edwins's github stats" width="450"/> -->
 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=html&langs_count=6&layout=compact" alt="Top Languages"/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="350"/>  -->
+
+[![edwins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwinjosechittilappilly)]
+
 <!--
 **edwinjosechittilappilly/edwinjosechittilappilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
