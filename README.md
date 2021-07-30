@@ -1,7 +1,6 @@
 
-
-<img src="https://edwinjose.com/wp-content/uploads/2021/07/0001-scaled.jpg" alt="Edwins's resume" width="420"/>
-<img src="https://edwinjose.com/wp-content/uploads/2021/07/0002-scaled.jpg" alt="Edwins's resume" width="420"/>
+![Header1](0001-scaled.jpg "Header1")
+![Header2](0002-scaled.jpg "Header2")
 ### Hi there 👋
 ## 📫 Reach me on:
 
