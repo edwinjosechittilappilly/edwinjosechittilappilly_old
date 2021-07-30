@@ -1,3 +1,7 @@
+
+
+<img src="https://edwinjose.com/wp-content/uploads/2021/07/0001-scaled.jpg" alt="Edwins's resume" />
+<img src="https://edwinjose.com/wp-content/uploads/2021/07/0002-scaled.jpg" alt="Edwins's resume" />
 ### Hi there 👋
 ## 📫 Reach me on:
 
@@ -17,7 +21,7 @@
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="350"/>  -->
-https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg
+
 <div align="right">
   
 ![ViewCount](https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://edwinjose.com)
