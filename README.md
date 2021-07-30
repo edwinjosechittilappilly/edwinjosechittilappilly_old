@@ -20,7 +20,7 @@
 https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://edwinjosechittilappilly.github.io/edwinjosechittilappilly/)
+![ViewCount](https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://edwinjose.com)
 </div>
 <!--
 [![edwins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwinjosechittilappilly)]
