@@ -17,12 +17,11 @@
 
 ---
 
-## 📫 Reach me on:
+<div align="center">
+  
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinjosechittilappilly/)](https://www.linkedin.com/in/edwinjosechittilappilly/)
-<div align="center">
-  
 ![ViewCount](https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://edwinjose.com)
 </div>
 <!--
