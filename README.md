@@ -8,20 +8,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&show_icons=true&hide_border=true" alt="Edwins's github stats" width="420"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=edwinjosechittilappilly&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="Edwins's github stats" width="450"/> -->
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=html&langs_count=6" alt="Top Languages"/>
+
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="350"/>  -->
+
 ---
 
 ## 📫 Reach me on:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwinjosechittilappilly/)](https://www.linkedin.com/in/edwinjosechittilappilly/)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=html&langs_count=6&layout=compact" alt="Top Languages"/>
-
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjosechittilappilly&hide=jupyter%20notebook&langs_count=6" alt="Top Languages" width="350"/>  -->
-
-<div align="right">
+<div align="center">
   
 ![ViewCount](https://views.whatilearened.today/views/github/edwinjosechittilappilly/edwinjosechittilappilly.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://edwinjose.com)
 </div>
